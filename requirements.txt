@@ -1,11 +1,8 @@
-transformers
-google.generativeai
-streamlit
-os
-dotenv
+python-dotenv
+google-generativeai
 openai
+streamlit
 PyPDF2
-docx
-re
+python-docx
 requests
-bs4
+beautifulsoup4
