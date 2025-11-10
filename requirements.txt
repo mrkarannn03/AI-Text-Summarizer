@@ -1,0 +1,11 @@
+transformers
+google.generativeai
+streamlit
+os
+dotenv
+openai
+PyPDF2
+docx
+re
+requests
+bs4
